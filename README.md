@@ -3,7 +3,7 @@
 Libraries like 
 Numpy
 Pandas
-Matplotlib have been used
+Matplotlib have been used. <br>
 Results:
 
 ![image](https://github.com/Anand152002/CryptoAnalysis/assets/84716645/54bf4797-34f2-42fa-b797-bbb9452b66fd)
