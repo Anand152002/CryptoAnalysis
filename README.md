@@ -1,6 +1,6 @@
 # CryptoAnalysis
 
-This about analu=ysing the growth trend in various Cryptocurrencies over a  period of  time.
+This about analysing the growth trend in various Cryptocurrencies over a  period of  time.
 <br> Libraries like 
 Numpy
 Pandas
