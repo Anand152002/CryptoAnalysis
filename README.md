@@ -1,10 +1,10 @@
 # CryptoAnalysis
 
-This about analu=ysing the growth trend in various Cryptocurrencies over the  period of 
-Libraries like 
+This about analu=ysing the growth trend in various Cryptocurrencies over a  period of  time.
+<br> Libraries like 
 Numpy
 Pandas
-Matplotlib have been used. <br>
+Matplotlib have been used. </br>
 Results:
 
 ![image](https://github.com/Anand152002/CryptoAnalysis/assets/84716645/54bf4797-34f2-42fa-b797-bbb9452b66fd)
